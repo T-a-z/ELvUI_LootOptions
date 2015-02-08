@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: |cff1784d1ElvUI|r_LootOptions
+## Version: 6.0.3
+## Notes: ELvUI datatext to manage Loot Options
+## Author: entomb
+## RequiredDeps: ElvUI
+
+lootoptions.lua
