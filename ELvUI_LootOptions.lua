@@ -29,6 +29,8 @@ local function OnClick(self, event, unit)
 
 	if event == "LeftButton" then
 		RandomRoll(1, 100);
+	elseif event == "MiddleButton" then
+		RandomRoll(1, 50);
 	else
 		DT.tooltip:Hide()
 		EasyMenu(menuList, menuFrame, "cursor", -15, -7, "MENU", 2)
