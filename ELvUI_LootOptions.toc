@@ -1,4 +1,4 @@
-## Interface: 60000
+## Interface: 70200
 ## Title: |cff1784d1ElvUI|r Loot Options
 ## Version: 6.0.3b
 ## Notes: ELvUI datatext to manage Loot Options
